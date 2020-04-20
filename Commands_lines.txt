@@ -1,0 +1,6 @@
+git init
+git add . (for all); git add name.ext (individual)
+git status
+git commit -m "Changes applied"
+git config --global user.email "email"
+git config --global user.name "username"
