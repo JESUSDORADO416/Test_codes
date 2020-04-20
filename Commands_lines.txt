@@ -4,3 +4,10 @@ git status
 git commit -m "Changes applied"
 git config --global user.email "email"
 git config --global user.name "username"
+git diff (for all); git diff #hash (individual)
+git log (registers)
+
+git remote add origin |git´s url|
+git remote -v
+git pull origin master --allow-unrelated-histories (to download repo)
+git push origin master (to send files to repo)
